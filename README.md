@@ -27,7 +27,7 @@ Bachelor's degree in "Business and Information Systems Engineering"
 
 #
 
-[![SimonHaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonhaas)](https://github.com/anuraghazra/github-readme-stats)
+[![SimonHaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonhaas&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SimonHaas/SimonHaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
