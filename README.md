@@ -4,8 +4,8 @@
 
 I´m Simon, I like to learn new stuff and use the [knowledge](https://www.youtube.com/watch?v=Cv1RJTHf5fk&t=11s) I already have.
 
+Software Developver by trade
 Bachelor's degree in "Business and Information Systems Engineering"
-
 
 ### 🧰 Languages and Tools
           
@@ -24,6 +24,13 @@ Bachelor's degree in "Business and Information Systems Engineering"
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+## Former (public) work
+
+- [Homeserver](https://github.com/SimonHaas/homeserver) - An ever growing collection of self hosted services embedded in an elegant and extensible setup for personal use.
+- [Tallycounter](https://tallycounter.simon-haas.eu/) - Designed and build during covid to count the people entering and leaving an event.
+- [margin-risk-calculator](https://www.npmjs.com/package/@simonhaas/wpk-rechner) - A group project during college for risk management when taking out a loan against your stock portfolio.
+- [school registration](https://anmeldung.bs1-bt.de/) - A group project during trade school for the online registration of new students. 
 
 #
 
