@@ -28,7 +28,7 @@ Bachelor's degree in "Business and Information Systems Engineering"
 ## Selection of former (public) work
 
 - [Homeserver](https://github.com/SimonHaas/homeserver) - An ever growing collection of self hosted services embedded in an elegant and extensible setup for personal use.
-- [Tallycounter](https://tallycounter.simon-haas.eu/) - Designed and build during covid to count the people entering and leaving an event.
+- [Tallycounter](https://simonhaas.github.io/tallycounter/) - Designed and build during covid to count the people entering and leaving an event.
 - [margin-risk-calculator](https://www.npmjs.com/package/@simonhaas/wpk-rechner) - A group project during college for risk management when taking out a loan against your stock portfolio.
 - [school registration](https://anmeldung.bs1-bt.de/) - A group project during trade school for the online registration of new students. 
 
