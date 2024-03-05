@@ -23,6 +23,7 @@ Bachelor's degree in "Business and Information Systems Engineering"
 <a href="https://github.com/" rel="noopener"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" rel="noopener"><img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>
 <br />
+<br />
 
 ## Selection of work
 
