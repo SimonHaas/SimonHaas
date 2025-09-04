@@ -29,7 +29,7 @@ Bachelor's degree in "Business and Information Systems Engineering"
 
 - [Homepage](https://simonhaas.eu/) - My homepage.
 - [cattle.email](https://www.cattle.email/) - A email service provider where you get a unique address for every service.
-- [school registration](https://anmeldung.bs1-bt.de/) - A group project during trade school for the online registration of new students. 
+- [school registration](https://schulanmeldung.bs1-bt.de/) - A group project during trade school for the online registration of new students. 
 - [Tallycounter](https://simonhaas.github.io/tallycounter/) - Designed and build during covid to count the people entering and leaving an event.
 - [Homeserver](https://github.com/SimonHaas/homeserver) - An ever growing collection of self hosted services embedded in an elegant and extensible setup for personal use.
 - [margin-risk-calculator](https://www.npmjs.com/package/@simonhaas/wpk-rechner) - A group project during college for risk management when taking out a loan against your stock portfolio.
